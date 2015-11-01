@@ -1,9 +1,10 @@
 NavSide
 ===================
+DEMO: http://carlosmarch.es/navside/
 
 #### How to use
 
-#### ** Include Jquery & Jquery Easing in your website. Add also navside.js & navside.css in your page.**
+#### **Include Jquery & Jquery Easing in your website. Add also navside.js & navside.css in your page.**
 ```html
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
 <script src="assets/js/jquery.easing.min.js" type="text/javascript"></script>
@@ -22,7 +23,7 @@ NavSide
    </ul>
 </nav>
 ```
-#### ** Call the plugin with options.**
+#### **Call the plugin with options.**
 ```javascript
 
 $("#navside").navside({
@@ -32,9 +33,4 @@ $("#navside").navside({
 
 ```
 
-#### ** Demo**
-```
-http://carlosmarch.es/navside/
-
-```
 
